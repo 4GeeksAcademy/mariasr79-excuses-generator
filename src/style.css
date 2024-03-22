@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: aqua;
+}
+img {
+  padding-top: 50px;
+  padding-right: 30px;
+}
